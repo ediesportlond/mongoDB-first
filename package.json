@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/ediesportlond/mongoDB-first/issues"
   },
-  "homepage": "https://github.com/ediesportlond/mongoDB-first#readme"
+  "homepage": "https://github.com/ediesportlond/mongoDB-first#readme",
+  "dependencies": {
+    "mongodb": "^4.10.0"
+  }
 }
